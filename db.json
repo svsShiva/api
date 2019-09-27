@@ -1,14 +1,57 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+ {
+    "profile": [
+      {
+        "id": "1",
+        "showcode": "Gg",
+        "expirationDate": "1568741400000",
+        "createdAtTS": "1568655000000",
+        "modifiedAtTS": "1568655000000",
+        "isActive": true
+      },
+      {
+        "id": "2",
+        "showcode": "ggkU2",
+        "expirationDate": "1568741400000",
+        "createdAtTS": "1568655000000",
+        "modifiedAtTS": "1568655000000",
+        "isActive": true
+      }
+    ],
+    "errorLog": [
+      {
+        "id": "1",
+        "message": "some comment",
+        "stack": "",
+        "occuredAtTS": "1568741400000"
+      }
+    ],
+    "scan": [
+      {
+        "id": "1",
+        "value": "3245",
+        "scanType": "IN",
+        "scannedAtTS": "1568741400000",
+        "profileId": "1",
+        "sessionId": "3"
+      },
+      {
+        "ID": "2",
+        "value": "3245",
+        "scanType": "IN",
+        "scannedAtTS": "1568741400000",
+        "profileId": "1",
+        "sessionId": "3",
+        "id": "qFC8OIn"
+      }
+    ],
+    "session": [
+      {
+        "id": "2",
+        "name": "some",
+        "venue": "fdf",
+        "startDateTS": "1568655000000",
+        "endDateTS": "1568655000000",
+        "isActive": true
+      }
+    ]
   }
-}
