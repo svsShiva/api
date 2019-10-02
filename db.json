@@ -2,7 +2,7 @@
     "profile": [
       {
         "id": "1",
-        "showcode": "Gg",
+        "showCode": "Gg",
         "expirationDate": "1601618283000",
         "createdAtTS": "1568655000000",
         "modifiedAtTS": "1568655000000",
@@ -10,7 +10,7 @@
       },
       {
         "id": "2",
-        "showcode": "ggkU2",
+        "showCode": "ggkU2",
         "expirationDate": "1601618283000",
         "createdAtTS": "1568655000000",
         "modifiedAtTS": "1568655000000",
@@ -18,7 +18,7 @@
       },
       {
          "id": "3",
-         "showcode": "ggk",
+         "showCode": "ggk",
          "expirationDate": "1601618283000",
          "createdAtTS": "1568655000000",
          "modifiedAtTS": "1568655000000",
