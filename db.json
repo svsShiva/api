@@ -91,6 +91,38 @@
         "startDateTS": "1568655000000",
         "endDateTS": "1568655000000",
         "isActive": true
+      },
+      {
+        "id": "7",
+        "name": "Session 7",
+        "venue": "GAR",
+        "startDateTS": "1568655000000",
+        "endDateTS": "1568655000000",
+        "isActive": true
+      },
+      {
+        "id": "8",
+        "name": "Session 8",
+        "venue": "GAR",
+        "startDateTS": "1568655000000",
+        "endDateTS": "1568655000000",
+        "isActive": true
+      },
+      {
+        "id": "9",
+        "name": "Session 9",
+        "venue": "GAR",
+        "startDateTS": "1568655000000",
+        "endDateTS": "1568655000000",
+        "isActive": true
+      },
+      {
+        "id": "10",
+        "name": "Session 10",
+        "venue": "GAR",
+        "startDateTS": "1568655000000",
+        "endDateTS": "1568655000000",
+        "isActive": true
       }
     ]
   }
