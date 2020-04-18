@@ -25,12 +25,11 @@
          "isActive": true
        }
     ],
-    "errorLog": [
+    "users": [
       {
         "id": "1",
-        "message": "some comment",
-        "stack": "",
-        "occuredAtTS": "1568741400000"
+        "email": "shiva@gmail.com",
+        "password": "shiva"
       }
     ],
     "scan": [
